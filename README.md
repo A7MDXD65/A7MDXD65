@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<p align="left">💻 Programming Languages</p>
+<h3 align="left">💻 Programming Languages</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<p align="left">🛠️ Stacks & frameworks</p>
+<h3 align="left">🛠️ Stacks & frameworks</h3>
 
 ###
 
@@ -84,7 +84,7 @@
 
 <br clear="both">
 
-<p align="left">📚 Libraries</p>
+<h3 align="left">📚 Libraries</h3>
 
 ###
 
@@ -104,7 +104,7 @@
 
 <br clear="both">
 
-<p align="left">⚙️ DevOps & Infrastrcuture</p>
+<h3 align="left">⚙️ DevOps & Infrastrcuture</h3>
 
 ###
 
@@ -134,7 +134,7 @@
 
 <br clear="both">
 
-<p align="left">🖌️ Product & Design</p>
+<h3 align="left">🖌️ Product & Design</h3>
 
 ###
 
