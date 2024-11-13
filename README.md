@@ -1,6 +1,6 @@
 ### Hello!👋 I’m Ahmed Esmail, a Computer Science Engineering student passionate about programming, technology, and creative projects.
 
-- 💻 I enjoy coding in multiple languages including **C**, **JavaScript**, and **Python**, with a strong foundation in **data structures** and **algorithms**.
+- 💻 I enjoy coding in multiple languages including **C++**, **JavaScript**, and **Python**, with a strong foundation in **data structures** and **algorithms**.
 - 📈 Enthusiastic about learning more in **machine learning** and **data analytics**.
 - 🖌️ Skilled in **UI/UX design** tools like **Figma** and **Blender**, merging functionality with aesthetic design.
 - 🛠️ Technologies I frequently use: **Nodejs**, **TensorFlow**, **Docker**, **Git**, **Linux**, **AWS**, and more.
