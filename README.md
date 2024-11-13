@@ -11,12 +11,20 @@
 
 ### ⚡ Fun Facts
 - I'm originally from **Egypt**, now living in **Hungary**.
-- I’m into **media Production** and love adding that creative touch to my projects.
+- I’m into **media production** and love adding that creative touch to my projects.
 - I’m also into **gaming** every now and then.
 
-<h2 align="left">💻 I code with</h2>
+<h2 align="left">🛠️ Technologies</h2>
 
 ###
+
+<br clear="both">
+
+<p align="left">💻 Programming Languages</p>
+
+###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -42,9 +50,13 @@
 
 ###
 
-<h2 align="left">🛠️ Technologies & frameworks</h2>
+<br clear="both">
+
+<p align="left">🛠️ Stacks & frameworks</p>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -70,9 +82,13 @@
 
 ###
 
-<h2 align="left">📚 Libraries</h2>
+<br clear="both">
+
+<p align="left">📚 Libraries</p>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
@@ -86,9 +102,13 @@
 
 ###
 
-<h2 align="left">⚙️ DevOps & Infrastrcuture</h2>
+<br clear="both">
+
+<p align="left">⚙️ DevOps & Infrastrcuture</p>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -112,9 +132,13 @@
 
 ###
 
-<h2 align="left">🖌️ Product & Design</h2>
+<br clear="both">
+
+<p align="left">🖌️ Product & Design</p>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -128,11 +152,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-</div>
-
-###
-
-<div align="left">
 </div>
 
 ###
