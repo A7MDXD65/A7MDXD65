@@ -1,4 +1,4 @@
-### 👋 Hello! I’m Ahmed, a Computer Science Engineering student passionate about programming, technology, and creative projects.
+### Hello!👋 I’m Ahmed Esmail, a Computer Science Engineering student passionate about programming, technology, and creative projects.
 
 - 💻 I enjoy coding in multiple languages including **C**, **JavaScript**, and **Python**, with a strong foundation in **data structures** and **algorithms**.
 - 📈 Enthusiastic about learning more in **machine learning** and **data analytics**.
@@ -14,7 +14,7 @@
 - I’m into **media Production** and love adding that creative touch to my projects.
 - I’m also into **gaming** every now and then.
 
-<h2 align="left">💻I code with</h2>
+<h2 align="left">💻 I code with</h2>
 
 ###
 
