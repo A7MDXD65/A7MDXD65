@@ -2,7 +2,7 @@
 
 - 💻 I enjoy coding in multiple languages including **C++**, **JavaScript**, and **Python**, with a strong foundation in **data structures** and **algorithms**.
 - 📈 Enthusiastic about learning more in **machine learning** and **data analytics**.
-- 🖌️ Skilled in **UI/UX design** tools like **Figma** and **Blender**, merging functionality with aesthetic design.
+- 🖌️ Skilled in **UI/UX design**, with expertise in tools like **Figma** for interface design and **Blender** for 3D modeling, merging functionality with aesthetics.
 - 🛠️ Technologies I frequently use: **Nodejs**, **TensorFlow**, **Docker**, **Git**, **Linux**, **AWS**, and more.
 
 ### 🌱 On the learning journey
